@@ -4,7 +4,7 @@
 This project analyzes climate-related discussions on Twitter using **Machine Learning (Random Forest)** and **Deep Learning (LSTM)** models to classify sentiment into **positive, neutral, and negative** categories. The goal is to extract meaningful insights from social media conversations about sustainability and climate change.
 
 ## **Dataset**
-- **Name:** Sustainable Product Hashtags Dataset
+- **Name:** Climate Sentiment Twitter Dataset
 - **Source:** Contains tweets related to climate change and sustainability.
 - **Features:** Tweet text, retweets, likes, author, polarity, subjectivity, etc.
 - **Target Variable:** Sentiment classification (positive, neutral, negative).
