@@ -89,10 +89,9 @@ nltk.download('punkt')
 - Apply **SMOTE** to handle class imbalance issues.
 
 ## **Author & Contact**
-- **Author:** [Your Name]
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile]
+- **Author:** Mert ADAKALE
+- **Email:** m.adakale@student.fontys.nl
 
-## **License**
-This project is released under the MIT License.
+
+
 
