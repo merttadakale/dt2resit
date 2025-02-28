@@ -24,10 +24,10 @@ nltk.download('punkt')
 ## **Project Structure**
 ```
 📂 Climate_Sentiment_Analysis
- ├── 📂 data                  # Dataset files
- ├── 📂 notebooks             # Jupyter Notebooks
- ├── 📂 models                # Trained models
- ├── 📂 visuals               # Generated plots and figures
+ ├── data                     # Dataset files
+ ├── notebooks                # Jupyter Notebooks
+ ├── models                   # Trained models
+ ├── visuals                  # Generated plots and figures
  ├── preprocess.py            # Data preprocessing functions
  ├── train_model.py           # Model training script
  ├── evaluate_model.py        # Model evaluation script
